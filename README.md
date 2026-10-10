@@ -22,7 +22,7 @@ Naegador web: herramienta para acceder a giyhub y administrar el repositorio
 
 Nombre del estudiante:
 
-Yeuri Antholi Sanchez Feliz
+Yeuri Antholin Sanchez Feliz
 
 Estado del proyecto:
 
