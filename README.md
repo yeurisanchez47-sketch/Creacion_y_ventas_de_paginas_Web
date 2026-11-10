@@ -2,11 +2,13 @@
 
 Descripcion: 
 
-El proyecto consiste en ofrecer servicio de desarrollo de paginas web para pequeños negocios, emprendedores y profecionales independiente.
+El proyecto consiste en ofrecer servicio de desarrollo y diseño de paginas web para pequeños negocios, emprendedores y profecionales independiente.
+
+Como parte del proyecto, se estiam desarrollar una plataforma web donde los visitantes o clientes puedan conocer los servicios ofrecios,consultar precios,visualizar ejemplos de painas Web y solicitar cotizaciones segun sus necesidades.
 
 Objetivo del proyecto:
 
-Desarrollar una propuesta de negocios dedicada ala creacion y ventas de paginas web, ofreciendo solucciones adaptada alas necesidades de cada cliente.
+Desarrollar una propuesta de negocios dedicada ala creacion y ventas de paginas web, ofreciendo solucciones adaptada alas necesidades de cada cliente.Ademas, se busca establecer una plataforma que facilite la promocion de los cervicios y el contacto con los posible clientes.
 
 Herramientas utlizadas:
 
@@ -14,9 +16,7 @@ GitHub: Se utilizara para crear y admiistrar el repositorio del proyecto.
 
 Git: Se utilizara para el control de las versiones y registrar los cambios
 
-Markdown:
-
-Se utilizara para documentar el proyectomediante archivo README.md
+Markdown:Se utilizara para documentar el proyectomediante archivo README.md
 
 Naegador web: herramienta para acceder a giyhub y administrar el repositorio
 
